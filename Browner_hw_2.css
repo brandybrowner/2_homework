@@ -1,0 +1,43 @@
+.links {
+	text-decoration: none;
+}
+
+p {
+	width: 500px;
+	padding: 0px 10px 0px 10px;
+	
+}
+
+#uses {
+	background-color: green;
+	width: 500px;
+	padding: 10px 10px 10px 10px;
+	color: white;
+	text-align: justify;
+}
+
+ul.herbs > li {
+	list-style-type: upper-roman;
+}
+
+ul.varieties li {
+	list-style-type: square
+}
+
+/*I am not sure if my list is done the way it is in the slides*/
+
+#dolls{
+	width: 480px;
+	padding: 10px;
+	background-color: pink;
+	color: grey;
+}
+
+#art {
+	width: 480px;
+	padding: 10px;
+	background-color: orange;
+	text-align: center;
+	color: white;
+
+}
